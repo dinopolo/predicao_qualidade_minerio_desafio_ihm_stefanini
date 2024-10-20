@@ -47,14 +47,14 @@ Este projeto demonstrou que é possível prever a quantidade de sílica no conce
 
 ## Estrutura do Repositório
 
-```
-├── 01-preparacao_flotacao.ipynb  # Arquivo com a preparação dos dados
-├── 02-tendencia_sazonalidade_flotation.ipynb # Arquivo com a análise de série temporal dos dados
-├── 03-neuralprophet_flotation.ipynb # Arquivo com a construção do modelo NeuralProphet
-├── 04-prophet_flotation.ipynb # Arquivo com a construção do modelo Prophet
-├── 05-xgboost_flotation.ipynb # Arquivo com a construção do modelo XGBRegressor
-├── 06-lstm_flotation.ipynb # Arquivo com a construção do modelo de Rede Neural LSTM
-├── Ciência de Dados para a previsão da qualidade.pptx # Arquivo com a apresentação
-├── README.md # Descrição do projeto
-└── flotation_hour.csv # Arquivos com os dados com periodicidade de hora em hora
+```bash
+├── 01-preparacao_flotacao.ipynb                          # Arquivo com a preparação dos dados
+├── 02-tendencia_sazonalidade_flotation.ipynb             # Arquivo com a análise de série temporal dos dados
+├── 03-neuralprophet_flotation.ipynb                      # Arquivo com a construção do modelo NeuralProphet
+├── 04-prophet_flotation.ipynb                            # Arquivo com a construção do modelo Prophet
+├── 05-xgboost_flotation.ipynb                            # Arquivo com a construção do modelo XGBRegressor
+├── 06-lstm_flotation.ipynb                               # Arquivo com a construção do modelo de Rede Neural LSTM
+├── Ciência de Dados para a previsão da qualidade.pptx    # Arquivo com a apresentação
+├── README.md                                             # Descrição do projeto
+└── flotation_hour.csv                                    # Arquivos com os dados com periodicidade de hora em hora
 ```
