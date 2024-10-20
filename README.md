@@ -45,4 +45,8 @@ Este projeto demonstrou que é possível prever a quantidade de sílica no conce
 - `xgboost`
 - `keras`
 
+## Estrutura do Repositório
+
+
+|--- 01-preparacao_flotacao.ipynb 
 
