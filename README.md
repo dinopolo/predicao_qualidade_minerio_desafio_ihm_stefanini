@@ -5,11 +5,13 @@ Este projeto tem como objetivo prever a quantidade de impureza (sílica) present
 Os dados utilizados neste projeto foram coletados entre março e setembro de 2017 e incluem medições de qualidade do minério e variáveis de processo como nível e fluxo de ar nas colunas de flotação. O objetivo principal é prever a última coluna do dataset, que representa a porcentagem de sílica no concentrado de minério.
 
 ## Dados
-Coluna 1: Data e hora (variável temporal).
-Colunas 2 e 3: Medidas de qualidade do minério de ferro antes de entrar na planta de flotação.
-Colunas 4 a 8: Variáveis mais importantes que impactam a qualidade do minério no final do processo.
-Colunas 9 a 22: Dados de processo (nível e fluxo de ar nas colunas de flotação).
-Colunas 23 e 24: Medições finais de qualidade do minério de ferro (coluna 24 é o objetivo).
+- Coluna 1: Data e hora (variável temporal).
+- Colunas 2 e 3: Medidas de qualidade do minério de ferro antes de entrar na planta de flotação.
+- Colunas 4 a 8: Variáveis mais importantes que impactam a qualidade do minério no final do processo.
+- Colunas 9 a 22: Dados de processo (nível e fluxo de ar nas colunas de flotação).
+- Colunas 23 e 24: Medições finais de qualidade do minério de ferro (coluna 24 é o objetivo).
+
+O conjunto de dados pode ser encontrado no site do Kaggle: [Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process)
 
 ## Objetivo
 O objetivo do projeto é prever a porcentagem de sílica no concentrado de minério de ferro (coluna 24) utilizando técnicas de aprendizado de máquina.
